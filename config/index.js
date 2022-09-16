@@ -43,20 +43,20 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.yuque.com/ran1364"
     }, 
+    {
+      name: "兰啊兰", 
+      id: "okeh-51rZgyeAzVbD1aNxrmxRL3k",
+      useTemplateId: "JijTt-DwQW3WGy4Bg4P2WoIw-90gwHuGLYC_grpzSO4",
+      province: "湖南",
+      city: "常德",
+      openUrl: "https://www.yuque.com/ran1364"
+    }, 
 //     {
-//       name: "老婆1", 
+//       name: "",
 //       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       openUrl: "https://www.yuque.com/ran1364"
-//     }, 
-//     {
-//       name: "老婆2",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
+//       useTemplateId: "JijTt-DwQW3WGy4Bg4P2WoIw-90gwHuGLYC_grpzSO4",
+//       province: "湖南",
+//       city: "常德",
 //       openUrl: "https://www.yuque.com/ran1364"
 //     }, 
 //     {
